@@ -14,6 +14,6 @@ An overview of SSI wallets
 - [Mattr Wallet](https://learn.mattr.global/tutorials/get-started/wallet) by [Mattr](https://github.com/mattrglobal)
 - [DataKeeper](https://datakeeper.nl/) by [Rabobank](https://github.com/rabobank-nederland) (Not open source)
 - [Microsoft Authenticator](https://www.microsoft.com/en-us/security/mobile-authenticator-app) by [Microsoft](https://github.com/microsoft) (Not open source)
-- [Bloom](https://bloom.co/download/) - [Bloom](https://github.com/hellobloom)
+- [Bloom](https://bloom.co/download/) by [Bloom](https://github.com/hellobloom)
 - [DID Wallet](https://www.arcblock.io/en/decentralized-identity) by [ArcBlock](https://github.com/ArcBlock)
 
