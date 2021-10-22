@@ -1,6 +1,7 @@
 # SSI Wallets
 An overview of SSI wallets
 
+- [KayTrust Wallet](https://kaytrust.id/download) by [KayTrust](https://github.com/KayTrust) (Open source protocols, wallet itself not open source yet)
 - [Trinsic Wallet](https://trinsic.id/trinsic-wallet/) by [Trinsic](https://github.com/trinsic-id)
 - [Esatus Wallet](https://esatus.com/esatus-ssi-wallet-app-ab-sofort-fuer-ios-und-android-verfuegbar/?lang=en) by Esatus
 - [Lissi ID Wallet](https://lissi.id/mobile) by [Lissi](https://github.com/lissi)
@@ -16,4 +17,3 @@ An overview of SSI wallets
 - [Microsoft Authenticator](https://www.microsoft.com/en-us/security/mobile-authenticator-app) by [Microsoft](https://github.com/microsoft) (Not open source)
 - [Bloom](https://bloom.co/download/) by [Bloom](https://github.com/hellobloom)
 - [DID Wallet](https://www.arcblock.io/en/decentralized-identity) by [ArcBlock](https://github.com/ArcBlock)
-
