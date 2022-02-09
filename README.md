@@ -1,6 +1,7 @@
 # SSI Wallets
 An overview of SSI wallets
 
+- [IRMA Wallet app](https://irma.app/docs/irma-app/) by [Privacy by Design Foundation](https://privacybydesign.foundation/)
 - [KayTrust Wallet](https://kaytrust.id/download) by [KayTrust](https://github.com/KayTrust) (Open source protocols, wallet itself not open source yet)
 - [Trinsic Wallet](https://trinsic.id/trinsic-wallet/) by [Trinsic](https://github.com/trinsic-id)
 - [Esatus Wallet](https://esatus.com/esatus-ssi-wallet-app-ab-sofort-fuer-ios-und-android-verfuegbar/?lang=en) by Esatus
@@ -17,3 +18,6 @@ An overview of SSI wallets
 - [Microsoft Authenticator](https://www.microsoft.com/en-us/security/mobile-authenticator-app) by [Microsoft](https://github.com/microsoft) (Not open source)
 - [Bloom](https://bloom.co/download/) by [Bloom](https://github.com/hellobloom)
 - [DID Wallet](https://www.arcblock.io/en/decentralized-identity) by [ArcBlock](https://github.com/ArcBlock)
+
+## SSI Cross Wallet Support
+In general, parties issue credentials using one specific protocol that not only a selection of wallets can handle. Similarly, verifiers request credentials (presentations) using a specific protocol that not all wallets handle. Rather than choosing a set of wallets to support and implement the protocols for each of them, verifiers as well as issuers can use the (open source) [eassi](https://eassi.ssi-lab.nl/docs/about) tools to interact with (an ever increasing set of) different user wallets. Parties may contact [Peter Langenkamp](mailto:peter.langenkamp@tno.nl) and/or [Michiel Stornebring](mailto:michiel.stornebrink@tno.nl) to discuss adding still unsupported wallets.
