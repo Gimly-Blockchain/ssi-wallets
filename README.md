@@ -17,3 +17,4 @@ An overview of SSI wallets
 - [Microsoft Authenticator](https://www.microsoft.com/en-us/security/mobile-authenticator-app) by [Microsoft](https://github.com/microsoft) (Not open source)
 - [Bloom](https://bloom.co/download/) by [Bloom](https://github.com/hellobloom)
 - [DID Wallet](https://www.arcblock.io/en/decentralized-identity) by [ArcBlock](https://github.com/ArcBlock)
+- [ID Pocket](https://rktechworks.com/idpocket by [RK Tech Works](https://rktechworks.com)
