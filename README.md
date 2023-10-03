@@ -20,6 +20,7 @@ An overview of SSI wallets
 - [DID Wallet](https://www.arcblock.io/en/decentralized-identity) by [ArcBlock](https://github.com/ArcBlock)
 - [ID Pocket](https://rktechworks.com/idpocket) by [RK Tech Works](https://rktechworks.com)
 - [Endorser.ch Mobile Wallet](https://endorser.ch) by [Community Cred](https://communitycred.org) (Open Source, based on [Veramo.io](https://veramo.io/))
+- [Web Wallet](https://docs.walt.id/v/apps/solutions/web-wallet) by [walt.id](https://walt.id) – Open-source, White-Label, Multi-Ecosystem Support
 
 ## SSI Cross Wallet Support
 In general, parties issue credentials using one specific protocol that only a certain selection of wallets can handle. Similarly, verifiers request credentials (presentations) using a specific protocol that not all wallets handle. Rather than choosing a set of wallets to support and implement the protocols for each of them, verifiers as well as issuers can use the (open source) [eassi](https://eassi.ssi-lab.nl/docs/about) tools to interact with (an ever increasing set of) different user wallets. Parties may contact [Peter Langenkamp](mailto:peter.langenkamp@tno.nl) and/or [Michiel Stornebrink](mailto:michiel.stornebrink@tno.nl) to discuss adding still unsupported wallets.
